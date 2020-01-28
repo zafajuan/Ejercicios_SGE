@@ -1,0 +1,17 @@
+diff --git a/archivo.txt b/archivo.txt
+deleted file mode 100644
+index 9ae353e..0000000
+--- a/archivo.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-hakdhkadhkadhkadhkas
+diff --git a/nuevo b/nuevo
+deleted file mode 100644
+index e69de29..0000000
+diff --git a/ttt.txt b/ttt.txt
+new file mode 100644
+index 0000000..bf7e899
+--- /dev/null
++++ b/ttt.txt
+@@ -0,0 +1 @@
++asdasd
